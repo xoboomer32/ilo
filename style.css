@@ -1,0 +1,36 @@
+#top{
+
+}
+#header{
+	align-items: center;
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	background-image: url(image/ilo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+header nav ul li{
+	position: relative;
+	left: 500px;
+	display: inline;
+}
+#devisGratuit{
+	position: relative;
+	left: 1080px;
+	bottom: 120px;
+	width: 150px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border-style: none;
+}
+#navtext{
+	position: relative;
+	left: 300px;
+	text-align: left;
+	font-size: 50px;
+}
